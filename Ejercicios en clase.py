@@ -1,4 +1,4 @@
-'''''
+'''
 'Ejercicio en clase 1'
 
 import math
@@ -11,9 +11,9 @@ print(f'La ecuación es igual a {b}')
 c = (math.exp(x)-math.exp(-x))/2
 print(f'la ecuación es igual a {c}')
 
-'''''
+'''
 
-'''''
+'''
 
 'Ejercicio en clase de complejos'
 
@@ -34,7 +34,7 @@ z.conjugate # Extrae la parte conjugada del numero complejo
 print(z)
 print(z.real)
 
-'''''
+'''
 
 
 
